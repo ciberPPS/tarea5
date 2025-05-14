@@ -1,3 +1,4 @@
-#Ignora los archivos .log
+#Ignora los siguientes archivos para que no se suban al repositorio:
 
 *.log
+*.env
