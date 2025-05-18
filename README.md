@@ -9,6 +9,3 @@ __Palindromo__
 11/05/2025
 
 * Ahora los commits se firman con clave GPG
-
-
-fakldhflkdhfkdshf
